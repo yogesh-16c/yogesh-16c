@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there , I'm Yogesh 👋
 
 Computer Engineering Student | Software Developer | AI & Technology Explorer
 
