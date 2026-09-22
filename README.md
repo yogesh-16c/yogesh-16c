@@ -12,6 +12,7 @@ Currently I am Working On :
 5. Developing NexusIQ — an AI-Assisted Engineering Intelligence Platform for Modern Software Teams
    
 Tools & Technologies I Use : 
+
 Frontend : HTML , CSS , JavaScript , React
 
 Backend : Java , Spring Boot , REST APIs
