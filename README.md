@@ -13,8 +13,11 @@ Currently I am Working On :
    
 Tools & Technologies I Use : 
 Frontend : HTML , CSS , JavaScript , React
+
 Backend : Java , Spring Boot , REST APIs
+
 AI & Data : Python , NLP , Machine Learning , Generative AI
+
 Tools : Git , GitHub , VS Code , Figma
 
 I'm always interested in software engineering, AI, developer tools, and new technologies.
